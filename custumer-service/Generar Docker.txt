@@ -1,0 +1,2 @@
+docker build --tag=custumers:latest .
+docker run -p9001:9001 custumers:latest .

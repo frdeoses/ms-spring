@@ -1,0 +1,2 @@
+docker build --tag=web-app:latest .
+docker run -p9003:9003 web-app:latest .
