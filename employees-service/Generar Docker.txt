@@ -1,0 +1,2 @@
+docker build --tag=employees:latest .
+docker run -p9000:9000 employees:latest .
