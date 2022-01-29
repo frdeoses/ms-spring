@@ -1,0 +1,2 @@
+docker build --tag=suppliers:latest .
+docker run -p9002:9002 suppliers:latest .
